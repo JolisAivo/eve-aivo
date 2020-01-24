@@ -11,23 +11,26 @@ app.aivoeve.space
 
 ## Technologies
 ### Aivoeve Discovery Service
-* Netflix Eureka Server
-* Netflix Hystrix
+* Netflix Eureka Discovery Server
+* Netflix Hystrix (Maintenance)
 * Spring Boot
+* Spring Boot DevTools
 * Spring Boot Actuator
 * Spring Boot Web
 
 ### Aivoeve Gateway Service
-* Netflix Zuul Proxy
-* Netflix Eureka Client
-* Netflix Hystrix
+* Netflix Zuul Proxy (Maintenance)
+* Netflix Eureka Discovery Client
+* Netflix Hystrix (Maintenance)
 * Spring Boot
+* Spring Boot DevTools
 * Spring Boot Actuator
 * Spring Boot Web
 
 ### Aivoeve Mail Service
-* Netflix Eureka Client
-* Netflix Hystrix
+* Netflix Eureka Discovery Client
+* Netflix Hystrix (Maintenance)
 * Spring Boot
+* Spring Boot DevTools
 * Spring Boot Actuator
 * Spring Boot Web
