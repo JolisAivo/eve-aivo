@@ -12,6 +12,7 @@ import { MailItemComponent } from './mailservice/mail-item/mail-item.component';
 import { MailListComponent } from './mailservice/mail-list/mail-list.component';
 import { AppLoginComponent } from './authentication/app-login/app-login.component';
 import { AppNewUserComponent } from './authentication/app-new-user/app-new-user.component';
+import { HeaderComponent } from './common/header/header.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { AppNewUserComponent } from './authentication/app-new-user/app-new-user.
     MailItemComponent,
     MailListComponent,
     AppLoginComponent,
-    AppNewUserComponent
+    AppNewUserComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

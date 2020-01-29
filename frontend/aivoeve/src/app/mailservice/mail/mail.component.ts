@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Mail } from '../../common/mail';
 
 @Component({
   selector: 'app-mail',
