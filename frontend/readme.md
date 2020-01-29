@@ -6,3 +6,5 @@ app.aivoeve.space
 
 ## Directory Strcture
 * *aivoeve* - Angular Frontend Project Location
+
+Uses LESS CSS
